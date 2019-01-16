@@ -3,8 +3,8 @@
 
 - Bass Equipments
     - Bass Guitar
-        - Bass Guitar Type
-        - Bass Guitar Wood
+        - [Bass Guitar Type](/BassEquipments/BassGuitar/BassGuitarType/BassGuitarType.md)
+        - [Bass Guitar Wood](/BassEquipments/BassGuitar/BassGuitarWood/BassGuitarWood.md)
     - Bass Pedal & Effect
         - Effect Pedal Schema
         - Effect Pedal Adjustments & Usage
