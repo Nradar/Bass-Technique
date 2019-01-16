@@ -17,6 +17,11 @@
 ### 桤木 Alder
 <img src="/BassEquipments/BassGuitar/BassGuitarWood/image001.jpg" alt="Alder" width="200"/>
 <img src="/BassEquipments/BassGuitar/BassGuitarWood/image003.jpg" alt="Alder" width="200"/>
+
+<p float="left">
+  <img src="/image001.jpg" width="200" />
+  <img src="/image003.jpg" width="200" /> 
+</p>
 又名赤扬木.原木的颜色偏红.是一种被广泛用于制作琴体的木材，因为他重量相对的轻一些（如果是标准strat琴体，他的重量是4磅左右，1磅=9两），而且他有一个非常丰满的音色，各个频段的反映都非常好。这种木材的表面纹路属于关闭式的，也就是说很平滑，所以他也很容易被上漆。Fender使用桤木做为琴体很多年，桤木搭配上日落色或者纯色漆非常的漂亮
 <img src="/BassEquipments/BassGuitar/BassGuitarWood/image005.jpg" alt="Alder" width="200"/>
 可用于贴面和琴身
