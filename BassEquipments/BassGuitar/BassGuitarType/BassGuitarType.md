@@ -1,6 +1,6 @@
 # Bass Guitar Type
 
-<img src="/BassEquipments/BassGuitar/BassGuitarType/PBass1" alt="PBass1" width="400"/>
+<img src="/BassEquipments/BassGuitar/BassGuitarType/PBass1.jpg" alt="PBass1" width="400"/>
 <img src="/BassEquipments/BassGuitar/BassGuitarType/PBass2" alt="PBass2" width="400"/>
 <img src="/BassEquipments/BassGuitar/BassGuitarType/PBass3" alt="PBass3" width="400"/>
 P Bass全名为Precession Bass，使用的是Double Coil Pickup，也就是双线圈拾音器。 p bass低音肥厚
