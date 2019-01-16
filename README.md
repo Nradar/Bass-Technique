@@ -1,6 +1,7 @@
 # Bass-Technique
 >Documents About Bass Technique.
 
+## Table of Contents
 - Bass Equipments
     - Bass Guitar
         - [Bass Guitar Type](/BassEquipments/BassGuitar/BassGuitarType/BassGuitarType.md)
