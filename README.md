@@ -14,6 +14,6 @@
     - [Bass Intro](/BassSkills/BassIntro/BassIntro.md)
     - [Bass Intermediate](/BassSkills/BassIntermediate/BassIntermediate.md)
     - [Bass Advance](/BassSkills/BassAdvance/BassAdvance.md)
-    - [Excercise](/BassSkills/Exercise/RhythmExercise.md)
+    - [Excercise](BassSkills/Exercise/Rhythm/RhythmExercise.md)
 - Extra Bass Info
     - [Own Used Tabs](/ExtraBassInfo/OwnUsedTabs)
