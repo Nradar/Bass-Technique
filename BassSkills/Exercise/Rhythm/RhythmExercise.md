@@ -1,5 +1,5 @@
 # Rhythm Exercise
 
 <audio id="audio" controls="" preload="none">
-      <source id="wma" src="/BassSkills/Exercise/Rhythm/audiofiles/6连音.wma">
+      <source id="mp3" src="/BassSkills/Exercise/Rhythm/audiofiles/example.mp3">
       </audio>
