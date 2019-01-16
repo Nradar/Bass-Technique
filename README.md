@@ -7,12 +7,12 @@
         - [Bass Guitar Type](/BassEquipments/BassGuitar/BassGuitarType/BassGuitarType.md)
         - [Bass Guitar Wood](/BassEquipments/BassGuitar/BassGuitarWood/BassGuitarWood.md)
     - Bass Pedal & Effect
-        - Effect Pedal Schema
-        - Effect Pedal Adjustments & Usage
-        - Effect Pedal Connection
+        - [Effect Pedal Schema](/BassEquipments/BassPedal&Effect/EffectPedalSchema/EffectPedalSchema.md)
+        - [Effect Pedal Adjustments & Usage](/BassEquipments/BassPedal&Effect/EffectPedalAdjustments&Usage/EffectPedalAdjustments&Usage.md)
+        - [Effect Pedal Connection](/BassEquipments/BassPedal&Effect/EffectPedalConnection.md)
 - Bass Skills
-    - Bass Intro
-    - Bass Intermediate
-    - Bass Advance
+    - [Bass Intro](/BassSkills/BassIntro/BassIntro.md)
+    - [Bass Intermediate](/BassSkills/BassIntermediate/BassIntermediate.md)
+    - [Bass Advance](/BassSkills/BassAdvance/BassAdvance.md)
 - Extra Bass Info
-    - Own Used Tabs
+    - [Own Used Tabs](/ExtraBassInfo/OwnUsedTabs)
