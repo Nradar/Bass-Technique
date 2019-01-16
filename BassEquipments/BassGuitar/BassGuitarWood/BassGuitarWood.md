@@ -17,29 +17,69 @@
 ### 桤木 Alder
 <p float="left">
   <img src="/BassEquipments/BassGuitar/BassGuitarWood/image001.jpg" width="200" />
-  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image003.jpg" width="200" /> 
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image003.jpg" width="200" />
 </p>
 又名赤扬木.原木的颜色偏红.是一种被广泛用于制作琴体的木材，因为他重量相对的轻一些（如果是标准strat琴体，他的重量是4磅左右，1磅=9两），而且他有一个非常丰满的音色，各个频段的反映都非常好。这种木材的表面纹路属于关闭式的，也就是说很平滑，所以他也很容易被上漆。Fender使用桤木做为琴体很多年，桤木搭配上日落色或者纯色漆非常的漂亮
 <img src="/BassEquipments/BassGuitar/BassGuitarWood/image005.jpg" alt="Alder" width="200"/>
 可用于贴面和琴身
 
-### ASH(梣木）
-梣木，分为两种：一种是北方硬梣木(Hard Ash); 另一种是南方软梣木，也叫沼泽梣木(Swamp Ash)。北方硬梣木非常的坚硬，密度高，重量大（strat琴体至少要5磅），他的密度高决定了他音色清亮而且延音长的特性，使这种硬梣木也非常的受欢迎，他的颜色有点象奶油一般的颜色。沼泽梣木也是种非常受欢迎的木材，属于音乐性非常强的木材，他在从亮丽到温暖的各个频段的反映也非常的平均。他的重量相对于北方梣木来说算是轻的（strat琴体在5磅内）．在早期的很多Fender都采用了ASH梣木作为琴身。他的纹路属于开放式的，他非常适合上日落色和清漆。可用于贴面、琴身
+### ASH(梣木)
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image007.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image009.jpg" width="200" /> 
+</p>
+梣木，分为两种：一种是北方硬梣木(Hard Ash); 另一种是南方软梣木，也叫沼泽梣木(Swamp Ash)。北方硬梣木非常的坚硬，密度高，重量大（strat琴体至少要5磅），他的密度高决定了他音色清亮而且延音长的特性，使这种硬梣木也非常的受欢迎，他的颜色有点象奶油一般的颜色。沼泽梣木也是种非常受欢迎的木材，属于音乐性非常强的木材，他在从亮丽到温暖的各个频段的反映也非常的平均。他的重量相对于北方梣木来说算是轻的（strat琴体在5磅内）．在早期的很多Fender都采用了ASH梣木作为琴身。他的纹路属于开放式的，他非常适合上日落色和清漆
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image011.jpg" alt="Ash" width="200"/>
+可用于贴面、琴身
 
 ### Basswood (椴木)
-椴木，首先他是一个相当轻的木材，strat琴体的重量在4磅以内，他的颜色是白的，但是经常会有一些难看的暗绿色的条纹。椴木属于软木，质地较软，音域较宽，音色比较温暖和亮丽．纹路属于关闭式的，但会吸收很多的油漆，不适合上浅色或透明油漆（Ibanez椴木琴身多会上较厚的不透明漆）。可用于琴身
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image013.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image015.jpg" width="200" /> 
+</p>
+椴木，首先他是一个相当轻的木材，strat琴体的重量在4磅以内，他的颜色是白的，但是经常会有一些难看的暗绿色的条纹。椴木属于软木，质地较软，音域较宽，音色比较温暖和亮丽．纹路属于关闭式的，但会吸收很多的油漆，不适合上浅色或透明油漆（Ibanez椴木琴身多会上较厚的不透明漆）
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image011.jpg" alt="Basswood" width="200"/>
+可用于琴身
 
 ### Bubinga (铁木)
-铁木，硬度极高，多用于制作贝斯琴颈 或贴面．Rickenbacker用它来做指板，warwick则用它来做琴身．木材的中频比较明亮，低频宽厚且清晰．用于贴面、琴身（少数）、琴颈、指板（少数）
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image018.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image020.jpg" width="200" /> 
+</p>
+铁木，硬度极高，多用于制作贝斯琴颈 或贴面．Rickenbacker用它来做指板，warwick则用它来做琴身．木材的中频比较明亮，低频宽厚且清晰
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image022.jpg" alt="Bubinga" width="200"/>
+用于贴面、琴身（少数）、琴颈、指板（少数）
 
 ### Koa (相思木)
-Koa,又名洋槐木，这种非常漂亮的木材来自于夏威荑群岛，非常的稀有，木纹路漂亮，高档的呈现火焰状纹路（flamed)，但是这种火焰装纹路与flamed maple的区别在于：flamed maple的纹路是横向的，而figured koa的flamed火焰纹路是纵向的，美国--对于他的砍伐控制的非常严格！他的重量不一，但总体来说是偏重的木质，而且作为BASS的琴体会得到非常完美的声音。洋槐的音色温暖，厚重，类似桃花心木，但是他的高频要比桃花心木突出一些，原色漆对于他来说是最合适不过的了。用于贴面、琴身、琴颈
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image024.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image026.jpg" width="200" /> 
+</p>
+Koa,又名洋槐木，这种非常漂亮的木材来自于夏威荑群岛，非常的稀有，木纹路漂亮，高档的呈现火焰状纹路（flamed)，但是这种火焰装纹路与flamed maple的区别在于：flamed maple的纹路是横向的，而figured koa的flamed火焰纹路是纵向的，美国--对于他的砍伐控制的非常严格！他的重量不一，但总体来说是偏重的木质，而且作为BASS的琴体会得到非常完美的声音。洋槐的音色温暖，厚重，类似桃花心木，但是他的高频要比桃花心木突出一些，原色漆对于他来说是最合适不过的了
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image011.jpg" alt="Koa" width="200"/>
+用于贴面、琴身、琴颈
 
-### Korina, Black (非洲语译音)
-产自非洲,分为黑korina和白korina两种,黑korina重量适中,但是我们通常采用轻量级的korina作为琴体,他的音色与桃花心木类似,颜色呈现非常漂亮的橄榄色,如果把他做为BASS琴体也可得到非常完美的音色.他的木质手感非常的光滑细腻.原色漆比较合适,50年代末的GIBSON和FLYING V采用Korina做为材料.白korina的特点与黑korina基本相同,除了重量上他属于中等偏重.用于贴面、琴身
+### Korina, Black(非洲语译音)
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image029.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image031.jpg" width="200" /> 
+</p>
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image033.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image035.jpg" width="200" /> 
+</p>
+产自非洲,分为黑korina和白korina两种,黑korina重量适中,但是我们通常采用轻量级的korina作为琴体,他的音色与桃花心木类似,颜色呈现非常漂亮的橄榄色,如果把他做为BASS琴体也可得到非常完美的音色.他的木质手感非常的光滑细腻.原色漆比较合适,50年代末的GIBSON和FLYING V采用Korina做为材料.白korina的特点与黑korina基本相同,除了重量上他属于中等偏重
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image011.jpg" alt="KorinaB" width="200"/>
+用于贴面、琴身
 
 ### Korina, White (非洲语译音)
-产自非洲,分为黑korina和白korina两种,黑korina重量适中,但是我们通常采用轻量级的korina作为琴体,他的音色与桃花心木类似,颜色呈现非常漂亮的橄榄色,如果把他做为BASS琴体也可得到非常完美的音色.他的木质手感非常的光滑细腻.原色漆比较合适,50年代末的GIBSON和FLYING V采用Korina做为材料.白korina的特点与黑korina基本相同,除了重量上他属于中等偏重.用于贴面、琴身、琴颈
+<p float="left">
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image038.jpg" width="200" />
+  <img src="/BassEquipments/BassGuitar/BassGuitarWood/image040.jpg" width="200" /> 
+</p>
+产自非洲,分为黑korina和白korina两种,黑korina重量适中,但是我们通常采用轻量级的korina作为琴体,他的音色与桃花心木类似,颜色呈现非常漂亮的橄榄色,如果把他做为BASS琴体也可得到非常完美的音色.他的木质手感非常的光滑细腻.原色漆比较合适,50年代末的GIBSON和FLYING V采用Korina做为材料.白korina的特点与黑korina基本相同,除了重量上他属于中等偏重
+<img src="/BassEquipments/BassGuitar/BassGuitarWood/image011.jpg" alt="KorinaW" width="200"/>
+用于贴面、琴身、琴颈
 
 ### Lacewood (虫纹木)
 主要产于澳大利亚,重量中等,纹路属于开放式,而且木材裂纹由小到大形状不一，像爬虫的斑点做为琴体薄贴面,样式优美,做为琴体的话,音色与赤扬接近.  于贴面、琴身、琴颈
