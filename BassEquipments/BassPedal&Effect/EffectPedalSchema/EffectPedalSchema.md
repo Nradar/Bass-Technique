@@ -6,4 +6,4 @@
 <a href="RandyEffectPedalSchema.zip" download>Click to Download Zip File</a>
 
 # Detailed Schema
-[60s-70s wah](/RandyEffectPedalSchema/altec_436c_compressor.pdf)
+[60s-70s wah](BassEquipments/BassPedal&Effect/EffectPedalSchema/RandyEffectPedalSchema/altec_436c_compressor.pdf)
