@@ -9,7 +9,7 @@
     - Bass Pedal & Effect
         - [Effect Pedal Schema](/BassEquipments/BassPedal&Effect/EffectPedalSchema/EffectPedalSchema.md)
         - [Effect Pedal Adjustments & Usage](/BassEquipments/BassPedal&Effect/EffectPedalAdjustments&Usage/EffectPedalAdjustments&Usage.md)
-        - [Effect Pedal Connection](/BassEquipments/BassPedal&Effect/EffectPedalConnection.md)
+        - [Effect Pedal Connection](/BassEquipments/BassPedal&Effect/EffectPedalConnection/EffectPedalConnection.md)
 - Bass Skills
     - [Bass Intro](/BassSkills/BassIntro/BassIntro.md)
     - [Bass Intermediate](/BassSkills/BassIntermediate/BassIntermediate.md)
