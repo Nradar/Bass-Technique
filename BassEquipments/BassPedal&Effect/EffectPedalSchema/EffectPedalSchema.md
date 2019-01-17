@@ -2,4 +2,5 @@
 > The Documents Are Only For Learning Use
 
 # Documents
+- Randy Effect Pedal Schema
 <a href="RandyEffectPedalSchema.zip" download>Click to Download</a>
